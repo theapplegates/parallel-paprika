@@ -94,7 +94,7 @@ weight = 6
 
       [languages.en.params.search.algolia]
       index = "loveit"
-      appID = "PASDMWALPK"
+      appID = "A9EPX0IYXL"
       searchKey = "b42948e51daaa93df92381c8e2ac0f93"
 
     [languages.en.params.home]
