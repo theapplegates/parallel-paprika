@@ -93,7 +93,7 @@ weight = 6
     absoluteURL = false
 
       [languages.en.params.search.algolia]
-      index = "index.en"
+      index = "loveit"
       appID = "PASDMWALPK"
       searchKey = "b42948e51daaa93df92381c8e2ac0f93"
 
